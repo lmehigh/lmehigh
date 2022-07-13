@@ -17,10 +17,10 @@ const me = {
   
   code: "Javascript",
   technologies: {
-    frontend: [ "Vue", "HTML5", "CSS3", "Bootstrap", "Sass" ],
-    backend: [ "Express", "Laravel" ],
+    frontend: [ "Svelte", "Vue", "HTML5", "CSS3", "Bootstrap", "Sass" ],
+    backend: [ "Express", "Laravel", "NestJS" ],
     design: [ "Photoshop" ],
-    databases: [ "MySQL", "MongoDB", "quick.db" ],
+    databases: [ "MySQL", "MongoDB", "quick.db", "Sequelize" ],
     tools: [ "Git", "NPM", "Composer" ],
     other: [ "Linux" ]
   },
