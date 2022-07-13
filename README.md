@@ -13,7 +13,7 @@ console.log(
 const me = {
   name: "Mihai L.",
   pseudonym: "dustyhawk",
-  age: "15",
+  age: "16",
   
   code: "Javascript",
   technologies: {
