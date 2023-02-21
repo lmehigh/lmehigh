@@ -3,4 +3,3 @@
 </p>
 
 My name is **Lucaciu Mihai**, known as **dustyhawk** and I'm a **full stack web developer** located in **Brad, Romania**.
-Currently working at [Rockford Studios](https://rockfordstudios.com/)
